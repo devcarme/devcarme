@@ -1,4 +1,4 @@
-<img src=”https://github.com/devcarme/devcarme/issues/1#issue-1174220044" alt=”my banner” align=”center”>
+<img src=”https://github.com/devcarme/devcarme/issues/1#issue-1174220044" alt=”my banner”>
 
 ### Hi there 👋
 - 🔭 I’m currently working on [GeoChecking](https://github.com/devcarme/geochecking-front)
