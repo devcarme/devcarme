@@ -46,7 +46,7 @@
 
 
 ### Tools :
-<div align="center">
+<div align="start">
     <img title="IntelliJ" alt="IntelliJ" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right:10px;"/>
     <img title="Git" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
     <img title="Heroku" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" style="padding-right:10px;"/>
