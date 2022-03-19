@@ -6,4 +6,4 @@
 - 💬 Ask me about React
 - 📫 How to reach me: loick.ducarme.contact@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![devcarme's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcarme)](https://github.com/anuraghazra/github-readme-stats)
