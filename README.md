@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src=”https://i.imgur.com/PlPc0Vy.jpeg" alt=”my banner” align="center" />
+  <img src=”https://i.imgur.com/PlPc0Vy.jpeg" alt=”Banner” />
 </div>           
                                                                                                                                                  
 ### Hi there 👋
