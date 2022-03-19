@@ -10,3 +10,5 @@
 - 📫 How to reach me: loick.ducarme.contact@gmail.com
 
 [![devcarme's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcarme)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devcarme&layout=compact)](https://github.com/yushi1007)
