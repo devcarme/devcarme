@@ -7,8 +7,3 @@
 - 📫 How to reach me: loick.ducarme.contact@gmail.com
 
 [![devcarme's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcarme)](https://github.com/anuraghazra/github-readme-stats)
-
-### :zap: Recent Activity
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
