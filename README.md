@@ -1,7 +1,5 @@
 
-<div align="center">
-  <img src=”https://i.imgur.com/PlPc0Vy.jpeg" alt=”Banner” />
-</div>           
+![alt text](https://i.imgur.com/PlPc0Vy.jpeg)
                                                                                                                                                  
 ### Hi there 👋
 - 🔭 I’m currently working on [GeoChecking](https://github.com/devcarme/geochecking-front)
