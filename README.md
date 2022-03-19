@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on https://github.com/devcarme/geochecking-front
+- 🔭 I’m currently working on [GeoChecking](https://github.com/devcarme/geochecking-front)
 - 🌱 I’m currently learning Koa.js
 - 👯 I’m looking to collaborate on Web REST API Applications
 - 🤔 I’m looking for help with Vue.js
@@ -9,3 +9,5 @@
 [![devcarme's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcarme)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
