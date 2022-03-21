@@ -13,7 +13,7 @@
 [![devcarme's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcarme)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devcarme&layout=compact)](https://github.com/yushi1007)
+1. ❗️ Closed issue [#1](https://github.com/devcarme/devcarme/issues/1) in [devcarme/devcarme](https://github.com/devcarme/devcarme)
 <!--END_SECTION:activity-->
 
 </div>
