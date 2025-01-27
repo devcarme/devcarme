@@ -1,16 +1,3 @@
-![alt text](https://i.imgur.com/PlPc0Vy.jpeg)
-                                                                                                                                                 
-### Hi there 👋
-- 👯 I’m looking to collaborate on Web REST API Applications
-- 💬 Ask me about React
-- 📫 How to reach me: loick.ducarme.contact@gmail.com
-
-<div>
-
-[![devcarme's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcarme)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
 ### Languages, Libraries, Frameworks :
 <div>
     <img title="HTML5" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -22,10 +9,6 @@
     <img title="Node" alt="Node" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
     <img title="npm" alt="npm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="padding-right:10px;" />
     <img title="Sequelize" alt="Sequelize" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" style="padding-right:10px;" />
-</div>
-<div>
-    <img title="Java" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
-    <img title="Spring" alt="Spring" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right:10px;" />
 </div>
 <div>    
     <img title="MySQL" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
